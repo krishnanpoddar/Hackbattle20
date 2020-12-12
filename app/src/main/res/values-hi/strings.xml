@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SarvSahayak</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homesitem">Home</string>
+
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+
+    //linkdin profile names
+
+    //linkdin profile
+    <string name="Krishnan_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/krishnanpoddar">Connect with Krishnan Poddar on linkedin</a></string>
+    <string name="Aishwarya_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/aishwarya-singh-1404">Connect with  Aishwarya Singh on linkedin</a></string>
+    <string name="sakshi_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Sakshi Tomar on linkedin</a></string>
+    <string name="simran_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Simran Chauhan on linkedin</a></string>
+    <string name="kumud_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Kumud Sharma on linkedin</a></string>
+    <string name="kushagra_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Kushagra gupta on linkedin</a></string>
+
+
+    <string name="send">संदेश</string>
+    <string name="tell_us_something_about_the_incident">घटना के बारे में कुछ बताइए</string>
+    <string name="proof">Proof</string>
+    <string name="description">विवरण</string>
+    <string name="add_proof">प्रमाण जोड़ें</string>
+    <string name="next">आगे</string>
+    <string name="todo">TODO</string>
+    <string name="open_camera">कैमरा</string>
+    <string name="open_gallery">गेलरी</string>
+
+    <string name="shared_preferces_file">App Lock Shared Preferences</string>
+
+    //domestic voilence form
+    <string name="domestic_voilence">घरेलू आवाज</string>
+    <string name="child_abuse">बाल शोषण</string>
+    <string name="animal_harassment">पशु उत्पीड़न</string>
+    <string name="ragging">रैगिंग</string>
+    <string name="anxiety">चिंता</string>
+
+    //ragging screen strings
+    <string name="ragging_name_of_Student">िद्यार्थी का नाम</string>
+    <string name="ragging_School_College">स्कूल/कॉलेज</string>
+    <string name="ragging_gender">लिंग</string>
+    <string name="ragging_roll_no">अनुक्रमांक</string>
+
+
+    //About app
+
+    <string name="about_app">
+सर्वसहायक मूक पीड़ितों के लिए बनाया गया एक मंच है। हम उन लोगों की मदद करना चाहते हैं जो अपने साथ हो रहे अपराधों के खिलाफ आवाज नहीं उठा पा रहे हैं। हमारा मोबाइल और वेब ऐप जनता को एक माध्यम प्रदान करते हैं जिसके माध्यम से वे अपने साथ हो रहे अन्याय के बारे में रिपोर्ट कर सकते हैं या उनके लिए ज्ञात / अज्ञात कोई भी हो सकता है। हम विश्वसनीय एनजीओ से जुड़े हुए हैं जो अपराधियों के खिलाफ समय पर और प्रभावी कार्रवाई करते हैं और पीड़ितों को न्याय प्रदान करते हैं।</string>
+    "
+
+    <string name="animal_name">
+पशु का नाम</string>
+    <string name="animal_loaction">पीड़िता का
+स्थान</string>
+    <string name="animal_description">विवरण</string>
+
+
+    //FAQS
+    <string name="ques1">-Ques 1. Is it necessary to provide your personal details while reporting an issue?
+</string>
+    <string name="ans1">Ans 2. Yes, it is necessary to provide your details while reporting your issue but we assure you it will remain safe with us and will not be misused anywhere.</string>
+
+    <string name="ques2">Ques 2. What kind of issues can we report?</string>
+    <string name="ans2">Ans 3. Domestic violence, animal abuse, and ragging are the issues we are covering right now</string>
+
+
+
+    <string name="ques3">Ques 2. Are we only supposed to report others’ problems, can’t we report our own?</string>
+    <string name="ans3">Ans 3. You are always welcome to report your problems on our platform. Our app isn’t just for reporting other people’s problems, it is a medium where you can report any crimes happening to you or anyone known/unknown to you.
+</string>
+
+    <string name="ques4">Ques 2. Is it necessary to provide photo/video proof while reporting?</string>
+    <string name="ans4">Ans 3. Yes, it is necessary to provide a video or photo while reporting your problem since some people misuse such platforms and can register false complaints against others. Even while taking action, evidence will be required, therefore, you need to give us proof.
+
+</string>
+    <string name="ques5">Ques 2. Does the app work offline as well?</string>
+    <string name="ans5">Ans 3.Yes, the app works offline as well. You can send an SMS to the NGO and they’ll contact you.
+
+</string>
+
+
+
+
+
+    //suusec
+    <string name="thanks">
+धन्यवाद</string>
+    <string name="response">आपकी शिकायत बताई गई है</string>
+    <string name="confirmation">आप ईमेल या संदेश पर रिपोर्ट की पुष्टि करेंगे</string>
+    <string name="back_home_screen">होम स्क्रीन पर वापस</string>
+
+</resources>

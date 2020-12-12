@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:orientation="vertical"
+    android:background="#50A0DF"
+    >
+
+
+<!--    This is used to add provide image view an circular shape-->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgDefaultImage"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/ic_person_profile"
+        app:civ_border_width="2dp"
+        app:civ_border_color="#A69C9C"/>
+    <TextView
+        android:id="@+id/txtMobileNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_gravity="start"
+
+        />
+
+
+</LinearLayout>

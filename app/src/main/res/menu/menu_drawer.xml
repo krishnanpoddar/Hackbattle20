@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<item
+    android:title="@string/homesitem"
+    android:id="@+id/MenuItemHome"
+    android:icon="@drawable/ic_home_button"
+    />
+
+    <item
+        android:title="User's Profile"
+        android:icon="@drawable/ic_person_profile"
+
+
+        android:id="@+id/MenuItemProfile"/>
+    <item
+        android:title="Any Questions?"
+        android:icon="@drawable/ic_anyques"
+        android:id="@+id/MenuItemQuestions"/>
+
+    <item
+        android:title="About App"
+        android:icon="@drawable/ic_aboutus"
+        android:id="@+id/MenuItemAboutApp"/>
+
+    <item
+        android:title="App Developers"
+        android:icon="@drawable/ic_developers"
+        android:id="@+id/MenuItemDevelpers"/>
+
+
+
+</menu>

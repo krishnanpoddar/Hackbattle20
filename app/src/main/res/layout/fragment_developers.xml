@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.DevelopersFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/CardView1"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imgKrishnan"
+                android:layout_marginTop="10dp"
+                android:layout_width="140dp"
+                android:layout_height="110dp"
+                android:src="@drawable/krishnan_pic"
+
+                />
+            <ImageView
+                android:id="@+id/imgLinkedinLogo"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/linkedin_logo"
+                android:layout_toRightOf="@id/imgKrishnan"
+                />
+
+            <TextView
+                android:layout_marginTop="9dp"
+                android:id="@+id/txtKrishnanlink"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/Krishnan_linkdin_profile"
+                android:layout_toRightOf="@id/imgLinkedinLogo"
+                android:textSize="15sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+<!--    aishwarya profile-->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/CardView2"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ImgAishwarya"
+                android:layout_marginTop="10dp"
+                android:layout_width="140dp"
+                android:layout_height="110dp"
+                android:src="@drawable/aishwarya_pic"
+
+                />
+            <ImageView
+                android:id="@+id/imgLinkedinLogo2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/linkedin_logo"
+                android:layout_toRightOf="@id/ImgAishwarya"
+                />
+
+            <TextView
+                android:layout_marginTop="9dp"
+                android:id="@+id/txtaishwaryalink"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/Aishwarya_linkdin_profile"
+                android:layout_toRightOf="@id/imgLinkedinLogo2"
+                android:textSize="15sp"/>
+
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+    <!--    sakshi profile-->
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/CardView3"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/Imgsakshi"
+                android:layout_width="140dp"
+                android:layout_height="110dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+
+                android:src="@drawable/sakshi_pic"
+
+                />
+
+            <ImageView
+                android:id="@+id/imgLinkedinLogo3"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_toRightOf="@id/Imgsakshi"
+                android:src="@drawable/linkedin_logo" />
+
+            <TextView
+                android:id="@+id/txtsakshilink"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="9dp"
+                android:layout_toRightOf="@id/imgLinkedinLogo3"
+                android:text="@string/sakshi_linkdin_profile"
+                android:textSize="15sp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+    <!--        simran-->
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/CardView4"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ImgSimran"
+                android:layout_width="140dp"
+                android:layout_height="110dp"
+                android:layout_marginTop="10dp"
+
+                android:src="@drawable/simran_pic"
+
+                />
+
+            <ImageView
+                android:id="@+id/imgLinkedinLogo4"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_toRightOf="@id/ImgSimran"
+                android:src="@drawable/linkedin_logo" />
+
+            <TextView
+                android:id="@+id/txtsimranlink"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="9dp"
+                android:layout_toRightOf="@id/imgLinkedinLogo4"
+                android:text="@string/simran_linkdin_profile"
+                android:textSize="15sp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <!--        kumud-->
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/CardView5"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/Imgkumud"
+                android:layout_width="140dp"
+                android:layout_height="110dp"
+                android:layout_marginTop="10dp"
+
+                android:src="@drawable/kumud_pic"
+
+                />
+
+            <ImageView
+                android:id="@+id/imgLinkedinLogo5"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_toRightOf="@id/Imgkumud"
+                android:src="@drawable/linkedin_logo" />
+
+            <TextView
+                android:id="@+id/txtkumudlink"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="9dp"
+                android:layout_toRightOf="@id/imgLinkedinLogo5"
+                android:text="@string/kumud_linkdin_profile"
+                android:textSize="15sp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <!--        kushagra-->
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/CardView6"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ImgKushagra"
+                android:layout_width="140dp"
+                android:layout_height="110dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/kumud_pic"
+
+                />
+
+            <ImageView
+                android:id="@+id/imgLinkedinLogo6"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_toRightOf="@id/ImgKushagra"
+                android:src="@drawable/linkedin_logo" />
+
+            <TextView
+                android:id="@+id/txtkushagralink"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="9dp"
+                android:layout_toRightOf="@id/imgLinkedinLogo6"
+                android:text="@string/kushagra_linkdin_profile"
+                android:textSize="15sp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
+
+</ScrollView>

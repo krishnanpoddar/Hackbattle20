@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">SarvSahayak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homesitem">Home</string>
+
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+
+    //linkdin profile names
+
+    <string name="Krishnan_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/krishnanpoddar">Connect with Krishnan Poddar on linkedin</a></string>
+    <string name="Aishwarya_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/aishwarya-singh-1404">Connect with  Aishwarya Singh on linkedin</a></string>
+    <string name="sakshi_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Sakshi Tomar on linkedin</a></string>
+    <string name="simran_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Simran Chauhan on linkedin</a></string>
+    <string name="kumud_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Kumud Sharma on linkedin</a></string>
+    <string name="kushagra_linkdin_profile"><a href="https://www.linkedin.com/mwlite/in/sakshi-tomar-12852a186">Connect with Kushagra gupta on linkedin</a></string>
+
+    <string name="send">Send</string>
+    <string name="tell_us_something_about_the_incident">Tell us something about the incident.</string>
+    <string name="proof">Proof</string>
+    <string name="description">Description</string>
+    <string name="add_proof">Add Proof</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="open_camera">Camera</string>
+    <string name="open_gallery">Gallery</string>
+
+    <string name="shared_preferces_file">App Lock Shared Preferences</string>
+
+    //domestic voilelce screen strings
+    <string name="domestic_voilence">Domestic Voilence</string>
+    <string name="child_abuse">Child Abuse</string>
+    <string name="animal_harassment">Animal Harassment</string>
+    <string name="ragging">Ragging</string>
+    <string name="anxiety">Anxiety</string>
+
+    //ragging screen strings
+    <string name="ragging_name_of_Student">Name of Student</string>
+    <string name="ragging_School_College">School/College</string>
+    <string name="ragging_gender">Gender</string>
+    <string name="ragging_roll_no">Roll no.</string>
+
+    <!--    About app fragment-->
+
+    <string name="about_app">
+SarvSahayak is a platform designed for silent sufferers. We aim to help people who are unable to raise their voice against crimes happening to them. Our mobile and web app offer a medium to the public through which they can report about injustices happening either to them or someone known/unknown to them. We are connected with reliable NGOs who take timely and efficient actions against the perpetrators and provide justice to the victims.
+</string>
+    <string name="animal_name">Name of Animal</string>
+    <string name="animal_loaction">Location of victim</string>
+    <string name="animal_description">.Description of incident</string>
+
+    //FAQS
+    <string name="ques1">-Ques 1. Is it necessary to provide your personal details while reporting an issue?
+</string>
+    <string name="ans1">Ans 2. Yes, it is necessary to provide your details while reporting your issue but we assure you it will remain safe with us and will not be misused anywhere.</string>
+
+    <string name="ques2">Ques 2. What kind of issues can we report?</string>
+    <string name="ans2">Ans 3. Domestic violence, animal abuse, and ragging are the issues we are covering right now</string>
+
+
+
+    <string name="ques3">Ques 2. Are we only supposed to report others’ problems, can’t we report our own?</string>
+    <string name="ans3">Ans 3. You are always welcome to report your problems on our platform. Our app isn’t just for reporting other people’s problems, it is a medium where you can report any crimes happening to you or anyone known/unknown to you.
+</string>
+
+    <string name="ques4">Ques 2. Is it necessary to provide photo/video proof while reporting?</string>
+    <string name="ans4">Ans 3. Yes, it is necessary to provide a video or photo while reporting your problem since some people misuse such platforms and can register false complaints against others. Even while taking action, evidence will be required, therefore, you need to give us proof.
+
+</string>
+    <string name="ques5">Ques 2. Does the app work offline as well?</string>
+    <string name="ans5">Ans 3.Yes, the app works offline as well. You can send an SMS to the NGO and they’ll contact you.
+
+
+</string>
+
+    //suusec
+    <string name="thanks">Thank you</string>
+    <string name="response">Your complaint has been reported</string>
+    <string name="confirmation">You will recieve report confirmation on email or message</string>
+    <string name="back_home_screen">Back to home screen</string>
+
+
+
+
+
+</resources>
